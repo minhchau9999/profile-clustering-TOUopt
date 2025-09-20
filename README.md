@@ -40,46 +40,11 @@ To become proficient in **data analytics for grid optimization**, with hands-on 
 - Battery + flexible load co-optimization
 - Reinforcement Learning for smart load agents
 
----
-
-## 🧪 Mini Projects
-
-- 🔮 **Forecasting Load Demand**
-  - Tools: `Prophet`, `XGBoost`
-  - Output: Forecast vs Actual plots
-
-- 🧠 **Clustering Buildings by Load**
-  - Tools: `KMeans`, `PCA`, `Seaborn`
-  - Output: Heatmaps, cluster assignments
-
-- ⚡ **TOU Load Shifting Optimization**
-  - Tools: `cvxpy`
-  - Output: Cost comparison, optimized load shape
-
-- 🔄 **Coming Soon**: MPC, multi-agent optimization, DER coordination
-
----
-
-## 🖼️ Visual Samples
-
-<img src="notebooks/figures/load_shift.png" width="600">
-
----
-
-## 📝 Blog (Coming Soon)
-
-*“From Load Forecasting to Grid-Aware Optimization: My Learning Journey in Energy Analytics”*
-
----
 
 ## 🤝 Acknowledgments
 
 This learning journey is supported and accelerated by **ChatGPT**, used as an interactive coding, debugging, and teaching assistant — making it feel like pair-programming with an energy domain tutor.
 
----
-
-## 📬 Contact
-
-If you're working on smart grid analytics or energy optimization, let's connect!
 
 🔗 [LinkedIn](https://linkedin.com/in/minhc-chau-566b3b99)  
+
